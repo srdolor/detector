@@ -1,0 +1,1 @@
+Detector is a program for advicing if a photo contains a human with passport in hands.
